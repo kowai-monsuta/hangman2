@@ -1,0 +1,11 @@
+flowers
+anemone
+irises
+buttercup
+amaryllis
+daffodil
+carnation
+begonia
+aster
+prairie gentian
+orchids

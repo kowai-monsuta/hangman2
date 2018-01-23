@@ -1,0 +1,11 @@
+dogs
+german shepherd
+beagle
+bulldog
+rottweiler
+golden retriever
+great dane
+poodle
+dachshund
+siberian husky
+dobermann
